@@ -5,4 +5,4 @@
 3. run the label script to get the text
 
 ## Result
-![a_few_good_men.png]()
+![Faces](a_few_good_men.png)
