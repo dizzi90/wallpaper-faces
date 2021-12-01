@@ -6,7 +6,8 @@ LC_CTYPE="en_US.UTF-8"
 bg_color=$1 || "none"
 montage \
   faces/* \
-  -shadow  -background white \
+  -shadow  \
+  -background gray \
   +label \
   -font AvantGarde \
   face_array.png
